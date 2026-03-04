@@ -1,0 +1,12 @@
+Aeg,Kasutaja päring,Filtrid,Filtreeritud kursusi,Kursuse koodid,Kursuse nimed,Vastus,Hinnang,Viga sammus
+2026-03-04 22:33:47,Leia mulle 10 ägedat ainet,pole (kõik kursused),3156,"['LOKT.01.010', 'MV00.00.015_1', 'LTKT.01.003', 'MV00.00.015', 'FLLC.09.005_1']","['Anorgaanilise keemia praktikum I', 'Sisehaigused', 'Materjalide uurimis- ja testimismeetodid', 'Sisehaigused', 'Eesti keel eelkesktasemele II, A2.2 - B1.1']","Muidugi! Vastan sulle ainult ülikoolikursuste osas. 
+
+Siin on 10 ainet, mis tunduvad põnevad ja on loetletud:
+
+1.  **Anorgaanilise keemia praktikum I** (LOKT.01.010) - Kui sulle meeldib laboritöö ja keemia, on see hea valik.
+2.  **Sisehaigused** (MV00.00.015_1) - Oluline eriala arstiks õppijale, katab palju erinevaid haigusseisundeid.
+3.  **Materjalide uurimis- ja testimismeetodid** (LTKT.01.003) - Sobib neile, kes on huvitatud materjaliteadusest ja -tehnoloogiast.
+4.  **Sisehaigused** (MV00.00.015) - Sama nagu eespool, aga teine esitus.
+5.  **Eesti keel eelkesktasemele II, A2.2 - B1.1** (FLLC.09.005_1) - Hea valik eesti keele taseme tõstmiseks.
+ 
+Need on kõik pakutavad kursused! Kas sa soovid, et ma filtreeriksin neid mingi kriteeriumi järgi (näiteks õppeaste või keel)?",👎 Halb,Samm 1 – metaandmete filtreerimine (filtrid liiga karmid/valed)
